@@ -48,6 +48,7 @@ print(DataFrameAKPD)
 #plt.plot(xAKPD,yAKPD)
 #plt.show()
 
+
 #Hacer Gráfica de puntos que muestre el comportamiento de "Pedestrians". Que sea una gráfica
 #por cada estado y con detalle de puertas en la horizontal
 #xAKPV=frameDePerAKPV['Port Name']
