@@ -26,6 +26,7 @@ es_PD = fronteras["Measure"] == "Pedestrians"
 es_AK = fronteras["State"] == "AK"
 
 
+
 frameDePerAKPV = fronteras[fecha & es_Canada & es_PerVeh & es_AK]
 DataFrameAKPV = pd.DataFrame(frameDePerAKPV)
 
